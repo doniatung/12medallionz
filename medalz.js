@@ -1,3 +1,9 @@
+// Team acDC
+// Carol Pan and Donia Tung
+// SoftDev2 pd7
+// K12 - Medallions...of Data!
+// 2018-03-20
+
 var svg = document.getElementById("svg");
 var title = document.getElementById("title");
 var switch_btn = document.getElementById("switch");
